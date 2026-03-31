@@ -16,7 +16,7 @@
         "url": "https://github.com/JCodesMore/youtube-mcp.git"
       },
       "description": "YouTube tools — search, transcripts, video info, channel browsing, playlists",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "strict": true
     }
   ]
