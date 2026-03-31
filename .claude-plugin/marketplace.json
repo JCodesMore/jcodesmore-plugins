@@ -1,0 +1,23 @@
+{
+  "name": "jcodesmore-plugins",
+  "owner": {
+    "name": "JCodesMore",
+    "url": "https://github.com/JCodesMore"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by JCodesMore",
+    "version": "1.0.1"
+  },
+  "plugins": [
+    {
+      "name": "youtube",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/JCodesMore/youtube-mcp.git"
+      },
+      "description": "YouTube tools — search, transcripts, video info, channel browsing, playlists",
+      "version": "0.1.1",
+      "strict": true
+    }
+  ]
+}
