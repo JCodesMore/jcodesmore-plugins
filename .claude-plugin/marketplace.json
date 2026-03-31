@@ -18,6 +18,16 @@
       "description": "YouTube tools — search, transcripts, video info, channel browsing, playlists",
       "version": "0.2.0",
       "strict": true
+    },
+    {
+      "name": "jobfinder",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/JCodesMore/claude-job-finder.git"
+      },
+      "description": "Job search, resume review/builder, company research, and resume customization",
+      "version": "0.1.0",
+      "strict": true
     }
   ]
 }
