@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Claude Code plugins by JCodesMore",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "plugins": [
     {
@@ -26,6 +26,16 @@
         "url": "https://github.com/JCodesMore/claude-job-finder.git"
       },
       "description": "Job search, resume review/builder, company research, and resume customization",
+      "version": "0.1.0",
+      "strict": true
+    },
+    {
+      "name": "fix-claude-code",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/JCodesMore/fix-claude-code.git"
+      },
+      "description": "Interactive wizard that fixes and optimizes Claude Code performance",
       "version": "0.1.0",
       "strict": true
     }

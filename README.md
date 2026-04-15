@@ -20,3 +20,4 @@ Then install any plugin:
 |--------|-------------|------|
 | `youtube` | YouTube tools — search, transcripts, video info, channel browsing, playlists | [youtube-mcp](https://github.com/JCodesMore/youtube-mcp) |
 | `jobfinder` | Job search, resume review/builder, company research, and resume customization | [claude-job-finder](https://github.com/JCodesMore/claude-job-finder) |
+| `fix-claude-code` | Interactive wizard that fixes and optimizes Claude Code performance | [fix-claude-code](https://github.com/JCodesMore/fix-claude-code) |
