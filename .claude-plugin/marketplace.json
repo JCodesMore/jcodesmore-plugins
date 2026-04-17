@@ -46,7 +46,7 @@
         "url": "https://github.com/JCodesMore/claude-for-movies.git"
       },
       "description": "Discover, recommend, and track movies in Claude Code. TMDB-powered with a taste profile and watch history that follow you across projects.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "strict": true
     }
   ]
