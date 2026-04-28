@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Claude Code plugins by JCodesMore",
-    "version": "1.0.2"
+    "version": "1.1.0"
   },
   "plugins": [
     {
@@ -20,13 +20,13 @@
       "strict": true
     },
     {
-      "name": "jobfinder",
+      "name": "claude-for-jobs",
       "source": {
         "source": "url",
-        "url": "https://github.com/JCodesMore/claude-job-finder.git"
+        "url": "https://github.com/JCodesMore/claude-for-jobs.git"
       },
-      "description": "Job search, resume review/builder, company research, and resume customization",
-      "version": "0.1.0",
+      "description": "Your AI job-search wingman — find roles, polish your resume, research companies, and tailor applications, all from Claude Code.",
+      "version": "0.2.0",
       "strict": true
     },
     {
