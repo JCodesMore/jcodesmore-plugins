@@ -13,17 +13,17 @@
       "name": "youtube",
       "source": {
         "source": "url",
-        "url": "https://github.com/JCodesMore/youtube-mcp.git"
+        "url": "https://github.com/JCodesMore/youtube-for-ai-agents.git"
       },
       "description": "YouTube tools — search, transcripts, video info, channel browsing, playlists",
       "version": "0.2.0",
       "strict": true
     },
     {
-      "name": "claude-for-jobs",
+      "name": "jobs-for-ai-agents",
       "source": {
         "source": "url",
-        "url": "https://github.com/JCodesMore/claude-for-jobs.git"
+        "url": "https://github.com/JCodesMore/jobs-for-ai-agents.git"
       },
       "description": "Your AI job-search wingman — find roles, polish your resume, research companies, and tailor applications, all from Claude Code.",
       "version": "0.2.0",
