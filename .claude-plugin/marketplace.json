@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Claude Code plugins by JCodesMore",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "plugins": [
     {
@@ -47,6 +47,16 @@
       },
       "description": "Discover, recommend, and track movies in Claude Code. TMDB-powered with a taste profile and watch history that follow you across projects.",
       "version": "0.2.1",
+      "strict": true
+    },
+    {
+      "name": "service-business-website-builder",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/JCodesMore/service-business-website-builder.git"
+      },
+      "description": "Spin up a full website for any US service business — interview, scrape socials, derive brand, draft copy, wire lead capture, finish local SEO. Pairs with the JCodesMore/service-business-site-template.",
+      "version": "0.1.0",
       "strict": true
     }
   ]
