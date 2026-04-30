@@ -18,7 +18,7 @@ Then install any plugin:
 
 | Plugin | Description | Repo |
 |--------|-------------|------|
-| `claude-for-movies` | Movie discovery, recommendations, and tracking with a taste profile that follows you across projects. TMDB + imdbapi.dev. | [claude-for-movies](https://github.com/JCodesMore/claude-for-movies) |
+| `movies-for-ai-agents` | Movie discovery, recommendations, and tracking with a taste profile that follows you across projects. TMDB + imdbapi.dev. | [movies-for-ai-agents](https://github.com/JCodesMore/movies-for-ai-agents) |
 | `jobs-for-ai-agents` | Your AI job-search wingman — find roles, polish your resume, research companies, and tailor applications, all from Claude Code. | [jobs-for-ai-agents](https://github.com/JCodesMore/jobs-for-ai-agents) |
 | `youtube` | YouTube tools — search, transcripts, video info, channel browsing, playlists | [youtube-for-ai-agents](https://github.com/JCodesMore/youtube-for-ai-agents) |
 | `fix-claude-code` | Interactive wizard that fixes and optimizes Claude Code performance | [fix-claude-code](https://github.com/JCodesMore/fix-claude-code) |
