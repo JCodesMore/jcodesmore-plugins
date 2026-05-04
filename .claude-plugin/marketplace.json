@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Claude Code plugins by JCodesMore",
-    "version": "1.2.0"
+    "version": "1.3.0"
   },
   "plugins": [
     {
@@ -56,6 +56,16 @@
         "url": "https://github.com/JCodesMore/service-business-website-builder.git"
       },
       "description": "Spin up a full website for any US service business — interview, scrape socials, derive brand, draft copy, wire lead capture, finish local SEO. Pairs with the JCodesMore/service-business-site-template.",
+      "version": "0.1.0",
+      "strict": true
+    },
+    {
+      "name": "discord",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/JCodesMore/discord-for-ai-agents.git"
+      },
+      "description": "Hand Claude a bot token and admin a Discord server in plain English — channels, roles, embeds, AutoMod, welcome screens, scheduled events, and full server-from-prompt templates.",
       "version": "0.1.0",
       "strict": true
     }
