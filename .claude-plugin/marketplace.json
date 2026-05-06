@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Claude Code plugins by JCodesMore",
-    "version": "1.5.0"
+    "version": "1.6.0"
   },
   "plugins": [
     {
@@ -67,6 +67,16 @@
       },
       "description": "Discord server admin via natural language — channels, roles, embeds, AutoMod, welcome screens, scheduled events, and full server templates. One front door: /discord.",
       "version": "0.3.0",
+      "strict": true
+    },
+    {
+      "name": "slack",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/JCodesMore/slack-for-ai-agents.git"
+      },
+      "description": "Slack workspace admin via natural language — channels, usergroups, Block Kit messages, scheduled posts, canvases, and full workspace templates from a one-line brief. One front door: /slack.",
+      "version": "0.1.1",
       "strict": true
     }
   ]
