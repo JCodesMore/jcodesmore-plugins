@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Claude Code plugins by JCodesMore",
-    "version": "1.6.0"
+    "version": "1.7.0"
   },
   "plugins": [
     {
@@ -77,6 +77,16 @@
       },
       "description": "Slack workspace admin via natural language — channels, usergroups, Block Kit messages, scheduled posts, canvases, and full workspace templates from a one-line brief. One front door: /slack.",
       "version": "0.1.1",
+      "strict": true
+    },
+    {
+      "name": "claude-search",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/JCodesMore/claude-search.git"
+      },
+      "description": "Search your past Claude Code conversations — ranked results, resumable in one command",
+      "version": "0.1.0",
       "strict": true
     }
   ]

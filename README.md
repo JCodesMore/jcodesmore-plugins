@@ -24,3 +24,4 @@ Then install any plugin:
 | `discord` | Discord server admin in plain English — channels, roles, embeds, AutoMod, welcome screens, scheduled events, and "describe a server, get one built" templates. | [discord-for-ai-agents](https://github.com/JCodesMore/discord-for-ai-agents) |
 | `slack` | Slack workspace admin in plain English — channels, usergroups, Block Kit messages, scheduled posts, canvases, and full workspace templates from a one-line brief. | [slack-for-ai-agents](https://github.com/JCodesMore/slack-for-ai-agents) |
 | `fix-claude-code` | Interactive wizard that fixes and optimizes Claude Code performance | [fix-claude-code](https://github.com/JCodesMore/fix-claude-code) |
+| `claude-search` | Local, ranked, lossless full-text search across your `~/.claude/projects/**` transcripts. Two-command install. | [claude-search](https://github.com/JCodesMore/claude-search) |
