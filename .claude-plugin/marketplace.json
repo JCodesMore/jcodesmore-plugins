@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Claude Code plugins by JCodesMore",
-    "version": "1.10.0"
+    "version": "1.10.1"
   },
   "plugins": [
     {
@@ -86,7 +86,7 @@
         "url": "https://github.com/JCodesMore/claude-search.git"
       },
       "description": "Recall local Claude Code, Codex, and OpenCode conversations with cited drill-down",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "strict": true
     }
   ]
