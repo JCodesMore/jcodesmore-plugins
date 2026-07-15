@@ -31,4 +31,4 @@ Users upgrading Agent Recall from a version before 0.5.0 should replace the rena
 | `discord` | Discord server admin in plain English — channels, roles, embeds, AutoMod, welcome screens, scheduled events, and "describe a server, get one built" templates. | [discord-for-ai-agents](https://github.com/JCodesMore/discord-for-ai-agents) |
 | `slack` | Slack workspace admin in plain English — channels, usergroups, Block Kit messages, scheduled posts, canvases, and full workspace templates from a one-line brief. | [slack-for-ai-agents](https://github.com/JCodesMore/slack-for-ai-agents) |
 | `fix-claude-code` | Interactive wizard that fixes and optimizes Claude Code performance | [fix-claude-code](https://github.com/JCodesMore/fix-claude-code) |
-| `agent-recall` | Local conversation recall across Claude Code, Codex, and OpenCode with cited drill-down. | [agent-recall](https://github.com/JCodesMore/agent-recall) |
+| `agent-recall` | Let your AI agent find any conversation you've had across Claude Code, Codex, and OpenCode. | [agent-recall](https://github.com/JCodesMore/agent-recall) |
