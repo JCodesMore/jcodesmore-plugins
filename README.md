@@ -2,6 +2,8 @@
 
 Claude Code plugin marketplace by [JCodesMore](https://github.com/JCodesMore).
 
+[![Discord](https://img.shields.io/badge/Join_the_community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hrTSX5yTpB)
+
 ## Install
 
 ```bash
